@@ -1,0 +1,12 @@
+C:\Users\patrickpissurno\Documents\Factorial Iterative-Recursive\Factorial Iterative-Recursive\bin\Debug\Factorial Iterative-Recursive.exe.config
+C:\Users\patrickpissurno\Documents\Factorial Iterative-Recursive\Factorial Iterative-Recursive\bin\Debug\Factorial Iterative-Recursive.exe
+C:\Users\patrickpissurno\Documents\Factorial Iterative-Recursive\Factorial Iterative-Recursive\bin\Debug\Factorial Iterative-Recursive.pdb
+C:\Users\patrickpissurno\Documents\Factorial Iterative-Recursive\Factorial Iterative-Recursive\obj\Debug\Factorial Iterative-Recursive.csprojResolveAssemblyReference.cache
+C:\Users\patrickpissurno\Documents\Factorial Iterative-Recursive\Factorial Iterative-Recursive\obj\Debug\Factorial_Iterative_Recursive.Form1.resources
+C:\Users\patrickpissurno\Documents\Factorial Iterative-Recursive\Factorial Iterative-Recursive\obj\Debug\Factorial_Iterative_Recursive.Properties.Resources.resources
+C:\Users\patrickpissurno\Documents\Factorial Iterative-Recursive\Factorial Iterative-Recursive\obj\Debug\Factorial Iterative-Recursive.csproj.GenerateResource.Cache
+C:\Users\patrickpissurno\Documents\Factorial Iterative-Recursive\Factorial Iterative-Recursive\obj\Debug\Factorial Iterative-Recursive.exe
+C:\Users\patrickpissurno\Documents\Factorial Iterative-Recursive\Factorial Iterative-Recursive\obj\Debug\Factorial Iterative-Recursive.pdb
+C:\Users\patrickpissurno\Documents\GitHub\School-Factorial-HW\Factorial Iterative-Recursive\bin\Debug\Factorial Iterative-Recursive.exe.config
+C:\Users\patrickpissurno\Documents\GitHub\School-Factorial-HW\Factorial Iterative-Recursive\obj\Debug\Factorial Iterative-Recursive.exe
+C:\Users\patrickpissurno\Documents\GitHub\School-Factorial-HW\Factorial Iterative-Recursive\obj\Debug\Factorial Iterative-Recursive.pdb
